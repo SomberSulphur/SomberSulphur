@@ -32,5 +32,5 @@
 
 ---
 
-Credit to [Danushka2](https://github.com/Danushka2) for the template.
+Credit to [Danushka2](https://github.com/Danushka2) for the template. [Repo](https://github.com/SomberSulphur/awesome-github-profile-readme-templates)
 
