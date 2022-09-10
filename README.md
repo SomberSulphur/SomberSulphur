@@ -4,8 +4,8 @@
 
 ## I'm a Freelance Software Developer
 
-- 👨‍💻 I’m currently working on machine learning and data mining projects using python.
-- 📚 Learning everything about Frontend and Backend technologies 😅
+- 👨‍💻 I’m currently working on a multipurpose discord bot named Atomic. 
+- 📚 Learning everything about Frontend and Backend technologies 😅 (it's a pain, kill me)
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 ---
